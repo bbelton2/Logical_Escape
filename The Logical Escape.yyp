@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "b7fb78c3-fe2f-4980-af6b-c0622d1a7b31",
+            "Value": {
+                "id": "e6316a97-9070-4208-8207-1aa900812f2f",
+                "resourcePath": "sprites\\spr_robot_run_left\\spr_robot_run_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "01e4e6e6-a6c2-48a9-ba2b-2ea26321bc43",
