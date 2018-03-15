@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> master
@@ -620,6 +621,8 @@
 <<<<<<< HEAD
 =======
 =======
+=======
+>>>>>>> master
 {
     "id": "bedaa278-6079-4776-ae3d-f2598dbfcf8d",
     "modelName": "GMProject",
@@ -722,6 +725,14 @@
                 "id": "b28e687b-f507-4ab7-89ec-aef77b71f1a4",
                 "resourcePath": "sprites\\spr_test_item\\spr_test_item.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "72f10122-e73e-47a2-848c-bbc67dd24cc5",
+            "Value": {
+                "id": "dcd85978-043e-4ce3-a712-710bb4c6ab31",
+                "resourcePath": "objects\\obj_laser\\obj_laser.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -897,6 +908,9 @@
         
     ],
     "tutorial": ""
+<<<<<<< HEAD
 >>>>>>> master
+>>>>>>> master
+=======
 >>>>>>> master
 }

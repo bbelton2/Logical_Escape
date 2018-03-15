@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> master
@@ -23,6 +24,8 @@
 <<<<<<< HEAD
 =======
 =======
+=======
+>>>>>>> master
 {
     "id": "3b1be5ee-fe0b-428c-a4c1-6375895ffa4e",
     "modelName": "GMFolder",
@@ -41,6 +44,9 @@
     "folderName": "sprites",
     "isDefaultView": false,
     "localisedFolderName": "ResourceTree_Sprites"
+<<<<<<< HEAD
 >>>>>>> master
+>>>>>>> master
+=======
 >>>>>>> master
 }
