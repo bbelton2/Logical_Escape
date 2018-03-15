@@ -1,23 +1,3 @@
-<<<<<<< HEAD
-{
-    "id": "3b1be5ee-fe0b-428c-a4c1-6375895ffa4e",
-    "modelName": "GMFolder",
-    "mvc": "1.1",
-    "name": "3b1be5ee-fe0b-428c-a4c1-6375895ffa4e",
-    "children": [
-        "f1d3ab48-1301-44ad-8bc0-57f41ab7e2cb",
-        "69bab88c-1d63-45be-88b2-5cc9fbf9a0ef",
-        "77016083-0c6f-4de3-b095-72c07b415c65",
-        "a719abbf-b402-47a1-8f1e-1c2f2032607c",
-        "f27f2a49-c7d8-4d34-9db9-00e77c2b3b10",
-        "71f5b8f7-f55f-4258-beba-177c37befcdf",
-        "bfa69214-ec6a-4c69-b69a-f55a502debcb"
-    ],
-    "filterType": "GMSprite",
-    "folderName": "sprites",
-    "isDefaultView": false,
-    "localisedFolderName": "ResourceTree_Sprites"
-=======
 {
     "id": "3b1be5ee-fe0b-428c-a4c1-6375895ffa4e",
     "modelName": "GMFolder",
@@ -30,16 +10,10 @@
         "77016083-0c6f-4de3-b095-72c07b415c65",
         "a719abbf-b402-47a1-8f1e-1c2f2032607c",
         "f27f2a49-c7d8-4d34-9db9-00e77c2b3b10",
-<<<<<<< Updated upstream
         "71f5b8f7-f55f-4258-beba-177c37befcdf"
-=======
-        "71f5b8f7-f55f-4258-beba-177c37befcdf",
-        "b7fb78c3-fe2f-4980-af6b-c0622d1a7b31"
->>>>>>> Stashed changes
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",
     "isDefaultView": false,
     "localisedFolderName": "ResourceTree_Sprites"
->>>>>>> master
 }
