@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> master
@@ -380,6 +381,8 @@
 <<<<<<< HEAD
 =======
 =======
+=======
+>>>>>>> master
 
 {
     "name": "room0",
@@ -755,6 +758,9 @@
         "modelName": "GMRoomViewSettings",
         "mvc": "1.0"
     }
+<<<<<<< HEAD
 >>>>>>> master
+>>>>>>> master
+=======
 >>>>>>> master
 }
