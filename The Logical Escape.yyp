@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "30967163-6ce1-40cc-81ac-20c72ba15cce",
+            "Value": {
+                "id": "19682ca0-802d-4542-8fd4-630bebbf0552",
+                "resourcePath": "objects\\obj_collide\\obj_collide.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "38f70e38-4d13-4458-9b08-c85d62120c90",
             "Value": {
                 "id": "179941d2-0695-4f27-a1b2-4f1203720aea",
