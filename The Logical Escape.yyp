@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1d329c38-3dfb-41c5-b813-1084d2005f1b",
+            "Value": {
+                "id": "e0f0611a-a825-456b-bc2b-e5e3d3288bb1",
+                "resourcePath": "sprites\\spr_question_expression\\spr_question_expression.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1d6eeb4a-2bb5-44a7-9c4b-4dd304e94ac6",
             "Value": {
                 "id": "d1f09ed0-9adb-452e-902d-f87e967e81dd",
@@ -132,6 +140,14 @@
                 "id": "dd3cfaeb-8be6-40e2-af35-52ab7c852396",
                 "resourcePath": "sprites\\spr_collision\\spr_collision.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4970294c-fb26-4061-8edf-0d702b8fd23a",
+            "Value": {
+                "id": "6c6a5345-2beb-4acf-8c17-07b3df74f21d",
+                "resourcePath": "objects\\obj_robot_arm_switch_correct\\obj_robot_arm_switch_correct.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -287,6 +303,14 @@
             }
         },
         {
+            "Key": "8592e776-8054-4d0a-9fed-266ab1b17597",
+            "Value": {
+                "id": "4893d5ff-d7aa-45a7-9a06-3bb0deb4048e",
+                "resourcePath": "objects\\obj_robot_arm\\obj_robot_arm.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "867436e1-daeb-42ee-95a8-c8602af5ef34",
             "Value": {
                 "id": "1a176f8a-43b9-4454-b528-1809ededcee3",
@@ -335,6 +359,14 @@
             }
         },
         {
+            "Key": "9ffde5dc-5224-4463-85bd-58a78fe4c8a0",
+            "Value": {
+                "id": "f05b1c11-d8e9-4ad5-8bac-62346bd65099",
+                "resourcePath": "sprites\\spr_robot_arm\\spr_robot_arm.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a65ac96a-5f0f-4150-a57c-11bf73f392fb",
             "Value": {
                 "id": "45ee6034-d3d6-4a9a-987e-6bb288c41ea3",
@@ -363,6 +395,14 @@
             "Value": {
                 "id": "0fc8fe25-d09a-4615-be9e-9746516888fb",
                 "resourcePath": "sprites\\spr_question_proton\\spr_question_proton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0c7e556-da9f-4725-ba9b-6742b0a9bde2",
+            "Value": {
+                "id": "d7ff3e38-e658-4020-921d-789371234827",
+                "resourcePath": "sprites\\spr_robot_arm_animation\\spr_robot_arm_animation.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -428,6 +468,14 @@
                 "id": "d9bea3e5-57e0-4dae-82cd-d7287383a6a7",
                 "resourcePath": "views\\e534174e-c1c4-4b22-bb63-419dc4eae8db.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e56959cf-b21f-4be3-b187-7b701a68837d",
+            "Value": {
+                "id": "d2333e81-d2f2-438a-9a41-536fb89d01c8",
+                "resourcePath": "objects\\obj_question_expression\\obj_question_expression.yy",
+                "resourceType": "GMObject"
             }
         },
         {
