@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "09bc1020-046a-4455-bfb3-c518c6ace815",
+            "Value": {
+                "id": "59cc4537-bbde-4d73-81c3-8a69182e0c87",
+                "resourcePath": "objects\\obj_slime\\obj_slime.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0c087d6d-1e31-4db6-a549-9bdb753ad390",
             "Value": {
                 "id": "3023f39a-ba53-41ec-b469-3d17b33ae040",
@@ -52,6 +60,14 @@
                 "id": "fa943cd1-9bc2-4c5b-9af7-0ef5a53f6178",
                 "resourcePath": "views\\0c65bdbd-ab93-42bb-b7da-b0ea35f36b06.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0c97a19d-4964-439f-87f0-c8f23f58328f",
+            "Value": {
+                "id": "1a66c4e8-2f13-4e45-a432-42634b551f5b",
+                "resourcePath": "objects\\object22\\object22.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -156,6 +172,14 @@
                 "id": "0a9ed6df-e113-4502-8034-84c2e5c00ac1",
                 "resourcePath": "objects\\obj_robot_arm\\obj_robot_arm.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "47a66bed-8cfb-4fcd-8983-0334ca760ccd",
+            "Value": {
+                "id": "087849c0-5d1b-4482-9472-8e194638e8c9",
+                "resourcePath": "sprites\\sprite28\\sprite28.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -492,6 +516,22 @@
                 "id": "cc5fa215-e356-41d9-8fdb-b4bda8eb93d7",
                 "resourcePath": "views\\dbf3d8c5-25a2-4943-893a-f3cf03378b78.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dcb7cef6-2d73-44e6-85c9-4cc6f13fdad9",
+            "Value": {
+                "id": "8bc9ba06-b616-47c1-9cc9-59662eeb1ed0",
+                "resourcePath": "objects\\obj_mouse\\obj_mouse.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e194fbe9-fd20-4cec-9064-b80ba914393d",
+            "Value": {
+                "id": "23a612b6-9f18-4d77-83f2-bcbbf1a1b6a7",
+                "resourcePath": "sprites\\spr_mouse\\spr_mouse.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
