@@ -58,7 +58,7 @@
             "Key": "14a0d52e-14ba-4fbb-9ea0-d8d5159eddd1",
             "Value": {
                 "id": "5a0b648e-98ac-4d85-ae21-d2563f6b89ae",
-                "resourcePath": "sprites\\spr_laser_answer_a\\spr_laser_answer_a.yy",
+                "resourcePath": "sprites\\spr_switch_answer_a\\spr_switch_answer_a.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -116,6 +116,14 @@
                 "id": "d52f8db1-2ab8-4750-a799-55dc5eec363a",
                 "resourcePath": "sprites\\spr_back_button\\spr_back_button.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "38f70e38-4d13-4458-9b08-c85d62120c90",
+            "Value": {
+                "id": "fccbbd3e-f65f-47bf-9089-a3a6abc31d86",
+                "resourcePath": "objects\\obj_robot_arm_switch_incorrect2\\obj_robot_arm_switch_incorrect2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -194,7 +202,7 @@
             "Key": "6bdc6ebd-a0e8-43ed-a2b0-79125b25441d",
             "Value": {
                 "id": "5ad6c9d5-0087-45b9-ad9c-5132da1a5c3e",
-                "resourcePath": "sprites\\spr_laser_answer_b\\spr_laser_answer_b.yy",
+                "resourcePath": "sprites\\spr_switch_answer_b\\spr_switch_answer_b.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -303,6 +311,14 @@
             }
         },
         {
+            "Key": "80c7da3d-7568-44a4-8a26-7bd6c561bcae",
+            "Value": {
+                "id": "d26d98c4-99cc-4e5b-87b0-6758e571a8b9",
+                "resourcePath": "sprites\\spr_switch_answer_c\\spr_switch_answer_c.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8592e776-8054-4d0a-9fed-266ab1b17597",
             "Value": {
                 "id": "4893d5ff-d7aa-45a7-9a06-3bb0deb4048e",
@@ -332,6 +348,14 @@
                 "id": "cd26cc7e-e214-4222-99a6-4416b26dfed7",
                 "resourcePath": "views\\8ac42cca-797e-4303-a085-5b436f9bd43c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "97f5666e-45f2-4d95-9a74-ddbb13565686",
+            "Value": {
+                "id": "0e9c57bb-b111-4933-927a-34ee25618451",
+                "resourcePath": "objects\\obj_robot_arm_answer_a\\obj_robot_arm_answer_a.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -367,6 +391,14 @@
             }
         },
         {
+            "Key": "a5a0496e-b3bd-4c2f-8bd3-66a499ff8f14",
+            "Value": {
+                "id": "71daa43f-ad1d-4c18-9040-6afea009a79a",
+                "resourcePath": "objects\\obj_robot_arm_answer_b\\obj_robot_arm_answer_b.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a65ac96a-5f0f-4150-a57c-11bf73f392fb",
             "Value": {
                 "id": "45ee6034-d3d6-4a9a-987e-6bb288c41ea3",
@@ -396,6 +428,14 @@
                 "id": "0fc8fe25-d09a-4615-be9e-9746516888fb",
                 "resourcePath": "sprites\\spr_question_proton\\spr_question_proton.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0a6ff5f-85d9-4be7-a84d-856cedf1b0d0",
+            "Value": {
+                "id": "9781de82-63a3-4cd1-970f-b028313e5747",
+                "resourcePath": "objects\\obj_robot_arm_switch_incorrect1\\obj_robot_arm_switch_incorrect1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -532,6 +572,14 @@
                 "id": "6ccf4677-0ed9-48c2-9d94-0f06c63c86a4",
                 "resourcePath": "views\\f614165a-9877-4ef2-8b44-aba5da2c6034.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f818d074-23ee-4596-9e45-c2b133e1a1d2",
+            "Value": {
+                "id": "669973d7-c95f-45ae-b348-13a5d71ae69d",
+                "resourcePath": "objects\\obj_robot_arm_answer_c\\obj_robot_arm_answer_c.yy",
+                "resourceType": "GMObject"
             }
         },
         {
