@@ -15,6 +15,12 @@ else
 }
 
 vsp = vsp + grv;
+//sludge slow
+if (place_meeting(x,y,obj_sludge))
+{
+	hsp = hsp/2;
+	vsp = vsp *.9;
+}
 
 if (place_meeting(x,y+1,obj_collide)) and (key_jump)
 {
@@ -27,6 +33,8 @@ if (place_meeting(x,y+1,obj_collide)) and (key_jump)
 		vsp = -15;	
 	}
 }
+
+
 
 //Check Horizontal Collision
 if (place_meeting(x+hsp,y,obj_collide))
@@ -51,6 +59,8 @@ if (place_meeting(x,y+vsp,obj_collide))
 	vsp=0;
 }
 y = y + vsp;
+
+
 
 //Animation
 if (!place_meeting(x,y+1,obj_collide))
