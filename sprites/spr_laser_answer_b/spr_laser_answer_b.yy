@@ -2,7 +2,7 @@
     "id": "6bdc6ebd-a0e8-43ed-a2b0-79125b25441d",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_switch_answer_b",
+    "name": "spr_laser_answer_b",
     "For3D": false,
     "HTile": false,
     "VTile": false,
