@@ -71,14 +71,6 @@
             }
         },
         {
-            "Key": "1d329c38-3dfb-41c5-b813-1084d2005f1b",
-            "Value": {
-                "id": "e0f0611a-a825-456b-bc2b-e5e3d3288bb1",
-                "resourcePath": "sprites\\spr_question_expression\\spr_question_expression.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "1d6eeb4a-2bb5-44a7-9c4b-4dd304e94ac6",
             "Value": {
                 "id": "d1f09ed0-9adb-452e-902d-f87e967e81dd",
@@ -140,14 +132,6 @@
                 "id": "dd3cfaeb-8be6-40e2-af35-52ab7c852396",
                 "resourcePath": "sprites\\spr_collision\\spr_collision.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4970294c-fb26-4061-8edf-0d702b8fd23a",
-            "Value": {
-                "id": "6c6a5345-2beb-4acf-8c17-07b3df74f21d",
-                "resourcePath": "objects\\obj_robot_arm_switch_correct\\obj_robot_arm_switch_correct.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -303,6 +287,15 @@
             }
         },
         {
+<<<<<<< HEAD
+            "Key": "80c7da3d-7568-44a4-8a26-7bd6c561bcae",
+            "Value": {
+                "id": "d26d98c4-99cc-4e5b-87b0-6758e571a8b9",
+                "resourcePath": "sprites\\spr_switch_answer_c\\spr_switch_answer_c.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8592e776-8054-4d0a-9fed-266ab1b17597",
             "Value": {
                 "id": "4893d5ff-d7aa-45a7-9a06-3bb0deb4048e",
@@ -311,6 +304,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of ad5bb25... Robot arm animation
             "Key": "867436e1-daeb-42ee-95a8-c8602af5ef34",
             "Value": {
                 "id": "1a176f8a-43b9-4454-b528-1809ededcee3",
@@ -359,6 +354,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "9ffde5dc-5224-4463-85bd-58a78fe4c8a0",
             "Value": {
                 "id": "f05b1c11-d8e9-4ad5-8bac-62346bd65099",
@@ -367,6 +363,16 @@
             }
         },
         {
+            "Key": "a5a0496e-b3bd-4c2f-8bd3-66a499ff8f14",
+            "Value": {
+                "id": "71daa43f-ad1d-4c18-9040-6afea009a79a",
+                "resourcePath": "objects\\obj_robot_arm_answer_b\\obj_robot_arm_answer_b.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+=======
+>>>>>>> parent of ad5bb25... Robot arm animation
             "Key": "a65ac96a-5f0f-4150-a57c-11bf73f392fb",
             "Value": {
                 "id": "45ee6034-d3d6-4a9a-987e-6bb288c41ea3",
@@ -399,6 +405,15 @@
             }
         },
         {
+<<<<<<< HEAD
+            "Key": "b0a6ff5f-85d9-4be7-a84d-856cedf1b0d0",
+            "Value": {
+                "id": "9781de82-63a3-4cd1-970f-b028313e5747",
+                "resourcePath": "objects\\obj_robot_arm_switch_incorrect1\\obj_robot_arm_switch_incorrect1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b0c7e556-da9f-4725-ba9b-6742b0a9bde2",
             "Value": {
                 "id": "d7ff3e38-e658-4020-921d-789371234827",
@@ -407,6 +422,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of ad5bb25... Robot arm animation
             "Key": "b9be6728-7e53-4d12-b1f5-79c9f876d173",
             "Value": {
                 "id": "c34ec245-a6aa-473b-a99b-d929f8cee660",
@@ -468,14 +485,6 @@
                 "id": "d9bea3e5-57e0-4dae-82cd-d7287383a6a7",
                 "resourcePath": "views\\e534174e-c1c4-4b22-bb63-419dc4eae8db.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "e56959cf-b21f-4be3-b187-7b701a68837d",
-            "Value": {
-                "id": "d2333e81-d2f2-438a-9a41-536fb89d01c8",
-                "resourcePath": "objects\\obj_question_expression\\obj_question_expression.yy",
-                "resourceType": "GMObject"
             }
         },
         {

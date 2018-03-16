@@ -62,10 +62,12 @@
         "9e8084d0-37d0-44ea-841b-4b333740eebc",
         "acefd136-20e4-439f-9441-25f89278c7c1",
         "14a0d52e-14ba-4fbb-9ea0-d8d5159eddd1",
+<<<<<<< HEAD
         "6bdc6ebd-a0e8-43ed-a2b0-79125b25441d",
         "9ffde5dc-5224-4463-85bd-58a78fe4c8a0",
         "b0c7e556-da9f-4725-ba9b-6742b0a9bde2",
-        "1d329c38-3dfb-41c5-b813-1084d2005f1b"
+        "1d329c38-3dfb-41c5-b813-1084d2005f1b",
+        "80c7da3d-7568-44a4-8a26-7bd6c561bcae"
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",
@@ -73,3 +75,8 @@
     "localisedFolderName": "ResourceTree_Sprites"
 >>>>>>> master
 }
+        "1d329c38-3dfb-41c5-b813-1084d2005f1b",
+        "80c7da3d-7568-44a4-8a26-7bd6c561bcae"
+=======
+        "6bdc6ebd-a0e8-43ed-a2b0-79125b25441d"
+>>>>>>> parent of ad5bb25... Robot arm animation
