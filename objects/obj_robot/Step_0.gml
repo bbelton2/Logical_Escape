@@ -12,7 +12,14 @@ vsp = vsp + grv;
 
 if (place_meeting(x,y+1,obj_block)) and (key_jump)
 {
-	vsp = -5;
+	if(cheat_jump == -1)
+	{
+		vsp = -5;
+	}
+	else
+	{
+		vsp = -15;	
+	}
 }
 
 //Check Horizontal Collision

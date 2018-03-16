@@ -7,6 +7,7 @@ grv = .3;
 walksp = 4;
 
 item_pickup = -1;
+cheat_jump = -1;
 
-image_xscale = .06;
-image_yscale = .06;
+image_xscale = .03;
+image_yscale = .03;

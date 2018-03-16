@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "75397124-952c-4055-b26b-503200d83b33",
+            "Value": {
+                "id": "99bd2291-5fd5-4896-889d-faa093b4d324",
+                "resourcePath": "sprites\\spr_background3\\spr_background3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "77016083-0c6f-4de3-b095-72c07b415c65",
             "Value": {
                 "id": "43628c6a-35ad-4ae9-8149-e4df7b19cf50",
@@ -476,6 +484,14 @@
                 "id": "c34ec245-a6aa-473b-a99b-d929f8cee660",
                 "resourcePath": "objects\\obj_laser_answer_b\\obj_laser_answer_b.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bc19d863-7aea-48a3-8c45-c246f2f22645",
+            "Value": {
+                "id": "68dc3c53-3a77-478e-a560-bfca6e642b75",
+                "resourcePath": "sprites\\spr_box\\spr_box.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
