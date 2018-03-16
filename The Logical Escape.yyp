@@ -55,6 +55,22 @@
             }
         },
         {
+            "Key": "14a0d52e-14ba-4fbb-9ea0-d8d5159eddd1",
+            "Value": {
+                "id": "5a0b648e-98ac-4d85-ae21-d2563f6b89ae",
+                "resourcePath": "sprites\\spr_laser_answer_a\\spr_laser_answer_a.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "170cfc15-80b9-4636-8eef-b070ca407b49",
+            "Value": {
+                "id": "889286c3-7c3a-4dba-ab90-d3bb13c716d8",
+                "resourcePath": "sprites\\spr_laser_on\\spr_laser_on.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1d6eeb4a-2bb5-44a7-9c4b-4dd304e94ac6",
             "Value": {
                 "id": "d1f09ed0-9adb-452e-902d-f87e967e81dd",
@@ -67,6 +83,14 @@
             "Value": {
                 "id": "51d907ae-8be6-47ec-befe-95d8eafa9b6b",
                 "resourcePath": "objects\\obj_block\\obj_block.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2afc9286-1b00-4142-8f8f-38d8fdae2392",
+            "Value": {
+                "id": "12cc2ac5-4d3b-4e1d-a66d-e1763bae59cd",
+                "resourcePath": "objects\\obj_question_proton\\obj_question_proton.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -147,6 +171,14 @@
             "Value": {
                 "id": "b03300d9-4312-44f1-8b2b-c32ad7c30eba",
                 "resourcePath": "sprites\\spr_block\\spr_block.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6bdc6ebd-a0e8-43ed-a2b0-79125b25441d",
+            "Value": {
+                "id": "5ad6c9d5-0087-45b9-ad9c-5132da1a5c3e",
+                "resourcePath": "sprites\\spr_laser_answer_b\\spr_laser_answer_b.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -263,6 +295,14 @@
             }
         },
         {
+            "Key": "89754e34-a9f0-4711-8b09-8861112a89a1",
+            "Value": {
+                "id": "82763125-48f1-4e08-92ce-7651a1e7d3fd",
+                "resourcePath": "objects\\obj_laser_answer_a\\obj_laser_answer_a.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8ac42cca-797e-4303-a085-5b436f9bd43c",
             "Value": {
                 "id": "cd26cc7e-e214-4222-99a6-4416b26dfed7",
@@ -287,6 +327,22 @@
             }
         },
         {
+            "Key": "9e8084d0-37d0-44ea-841b-4b333740eebc",
+            "Value": {
+                "id": "4d9971f5-ab12-4a43-9d38-c2e1a5eb28cb",
+                "resourcePath": "sprites\\spr_laser_off\\spr_laser_off.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a65ac96a-5f0f-4150-a57c-11bf73f392fb",
+            "Value": {
+                "id": "45ee6034-d3d6-4a9a-987e-6bb288c41ea3",
+                "resourcePath": "objects\\obj_laser_switch_correct\\obj_laser_switch_correct.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a719abbf-b402-47a1-8f1e-1c2f2032607c",
             "Value": {
                 "id": "ab341829-4af4-4c9d-a280-6dd0c5910132",
@@ -303,11 +359,51 @@
             }
         },
         {
+            "Key": "acefd136-20e4-439f-9441-25f89278c7c1",
+            "Value": {
+                "id": "0fc8fe25-d09a-4615-be9e-9746516888fb",
+                "resourcePath": "sprites\\spr_question_proton\\spr_question_proton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b9be6728-7e53-4d12-b1f5-79c9f876d173",
+            "Value": {
+                "id": "c34ec245-a6aa-473b-a99b-d929f8cee660",
+                "resourcePath": "objects\\obj_laser_answer_b\\obj_laser_answer_b.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c3624239-66fd-4d5b-ac8a-a374b3ebf7ae",
+            "Value": {
+                "id": "26759477-b86b-43ea-82b4-ae49ca9b5384",
+                "resourcePath": "sprites\\spr_switch_pressed\\spr_switch_pressed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "01e4e6e6-a6c2-48a9-ba2b-2ea26321bc43",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "da6de8dc-d841-4f25-b09a-5051d9e44ff5",
+            "Value": {
+                "id": "767887f9-2334-4f15-8e4b-06fc46cb07d0",
+                "resourcePath": "sprites\\spr_switch\\spr_switch.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "daf26874-3720-4aad-bb86-c58074e99233",
+            "Value": {
+                "id": "48f65092-3087-4b36-a790-5941b72c06cc",
+                "resourcePath": "objects\\obj_laser_switch_incorrect\\obj_laser_switch_incorrect.yy",
+                "resourceType": "GMObject"
             }
         },
         {
