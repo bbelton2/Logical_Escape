@@ -1,1 +1,1 @@
-cheat_jump = -cheat_jump;
+cheat = -cheat;

@@ -5,14 +5,20 @@ key_jump = keyboard_check_pressed(vk_space);
 
 //Calculate Movement
 var move = key_right - key_left;
-
-hsp = move * walksp;
+if(cheat == -1)
+{
+	hsp = move * walksp;
+}
+else
+{
+	hsp = move * walksp*3;
+}
 
 vsp = vsp + grv;
 
 if (place_meeting(x,y+1,obj_block)) and (key_jump)
 {
-	if(cheat_jump == -1)
+	if(cheat == -1)
 	{
 		vsp = -5;
 	}
