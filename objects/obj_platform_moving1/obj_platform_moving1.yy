@@ -8,7 +8,7 @@
             "id": "a513c8df-5452-44e2-b1c3-c5e6a965fd84",
             "modelName": "GMEvent",
             "mvc": "1.0",
-            "IsDnD": true,
+            "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
@@ -32,7 +32,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": false,
-    "spriteId": "71f5b8f7-f55f-4258-beba-177c37befcdf",
+    "solid": true,
+    "spriteId": "76371792-36f4-43cf-be1d-5ec7386cc216",
     "visible": true
 }

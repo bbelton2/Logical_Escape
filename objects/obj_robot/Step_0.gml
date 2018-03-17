@@ -39,22 +39,28 @@ if (place_meeting(x,y+1,obj_collide)) and (key_jump)
 //Check Horizontal Collision
 if (place_meeting(x+hsp,y,obj_collide))
 {
-	while(!place_meeting(x+sign(hsp),y,obj_collide))
+	//while(!place_meeting(x+sign(hsp),y,obj_collide))
+	//{
+	//	x = x + sign(hsp);
+	//}
+	if (place_meeting(x-path1.speed,y,obj_platform_moving1))
 	{
-		x = x + sign(hsp);
+		x += walksp+1;
 	}
-	
-	hsp=0;
+	else
+	{
+		hsp=0;
+	}
 }
 x = x + hsp;
 
 //Check Vertical Collision
 if (place_meeting(x,y+vsp,obj_collide))
 {
-	while(!place_meeting(x,y+sign(vsp),obj_collide))
-	{
-		y = y + sign(vsp);
-	}
+	//while(!place_meeting(x,y+sign(vsp),obj_collide))
+	//{
+	//	y = y + sign(vsp);
+	//}
 	
 	vsp=0;
 }
