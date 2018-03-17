@@ -479,6 +479,14 @@
             }
         },
         {
+            "Key": "8b7e87d8-c80a-4f11-8196-1017169340a5",
+            "Value": {
+                "id": "8ecb6b5b-a29d-4fcf-98d0-79907023617b",
+                "resourcePath": "sprites\\spr_blob_squished\\spr_blob_squished.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "97f5666e-45f2-4d95-9a74-ddbb13565686",
             "Value": {
                 "id": "bead0a79-8c17-4bdb-af09-9682548c490e",
