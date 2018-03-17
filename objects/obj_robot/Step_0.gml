@@ -15,8 +15,14 @@ else
 }
 
 vsp = vsp + grv;
+//sludge slow
+if (place_meeting(x,y,obj_sludge))
+{
+	hsp = hsp/2;
+	vsp = vsp *.9;
+}
 
-if (place_meeting(x,y+1,obj_block)) and (key_jump)
+if (place_meeting(x,y+1,obj_collide)) and (key_jump)
 {
 	if(cheat == -1)
 	{
@@ -28,10 +34,12 @@ if (place_meeting(x,y+1,obj_block)) and (key_jump)
 	}
 }
 
+
+
 //Check Horizontal Collision
-if (place_meeting(x+hsp,y,obj_block))
+if (place_meeting(x+hsp,y,obj_collide))
 {
-	while(!place_meeting(x+sign(hsp),y,obj_block))
+	while(!place_meeting(x+sign(hsp),y,obj_collide))
 	{
 		x = x + sign(hsp);
 	}
@@ -41,9 +49,9 @@ if (place_meeting(x+hsp,y,obj_block))
 x = x + hsp;
 
 //Check Vertical Collision
-if (place_meeting(x,y+vsp,obj_block))
+if (place_meeting(x,y+vsp,obj_collide))
 {
-	while(!place_meeting(x,y+sign(vsp),obj_block))
+	while(!place_meeting(x,y+sign(vsp),obj_collide))
 	{
 		y = y + sign(vsp);
 	}
@@ -52,8 +60,10 @@ if (place_meeting(x,y+vsp,obj_block))
 }
 y = y + vsp;
 
+
+
 //Animation
-if (!place_meeting(x,y+1,obj_block))
+if (!place_meeting(x,y+1,obj_collide))
 {
 	sprite_index = spr_robot_jump;
 	image_speed = 0;
