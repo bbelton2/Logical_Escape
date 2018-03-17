@@ -1,8 +1,8 @@
 {
-    "id": "24744268-3aa9-412c-af2a-7ae5e73821b3",
+    "id": "4de43e23-ce14-447b-b0a4-cf23c13b1fd0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_block",
+    "name": "obj_ceiling",
     "eventList": [
         
     ],
