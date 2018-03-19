@@ -43,14 +43,16 @@ if (place_meeting(x+hsp,y,obj_collide))
 	//{
 	//	x = x + sign(hsp);
 	//}
-	if (place_meeting(x-path1.speed,y,obj_platform_moving1))
-	{
-		x += walksp+1;
-	}
-	else
-	{
-		hsp=0;
-	}
+	//if (place_meeting(x-obj_platform_moving_parent.hspeed,y,obj_platform_moving_parent))
+	//{
+	//	x += (obj_platform_moving_parent.hspeed) ;
+	//	show_debug_message(string(obj_platform_moving_parent.instance_id));
+	//}
+	//else
+	//{
+	//	hsp=0;
+	//}
+	hsp = 0;
 }
 x = x + hsp;
 
@@ -78,7 +80,7 @@ if (!place_meeting(x,y+1,obj_collide))
 else
 {
 	image_speed = 1;
-	if (hsp == 0)
+	if (move == 0)
 	{
 		sprite_index = spr_robot;	
 	}
@@ -88,4 +90,4 @@ else
 	}
 }
 
-if (hsp != 0) image_xscale = sign(hsp)*abs(image_xscale);
+if (move != 0) image_xscale = sign(move)*abs(image_xscale);

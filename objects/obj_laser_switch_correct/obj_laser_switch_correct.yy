@@ -5,16 +5,6 @@
     "name": "obj_laser_switch_correct",
     "eventList": [
         {
-            "id": "0fc693cb-83fd-47cd-89ef-97dae5d32179",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 13,
-            "m_owner": "a65ac96a-5f0f-4150-a57c-11bf73f392fb"
-        },
-        {
             "id": "ffadacf8-1332-4b3b-a794-5a98fdcfdc97",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -22,6 +12,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "a65ac96a-5f0f-4150-a57c-11bf73f392fb"
+        },
+        {
+            "id": "c0e4231a-84de-47bf-b0bb-685986792d72",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "7bb9c91b-4370-495a-8ba3-7e08eb59768d",
+            "enumb": 0,
+            "eventtype": 4,
             "m_owner": "a65ac96a-5f0f-4150-a57c-11bf73f392fb"
         }
     ],
