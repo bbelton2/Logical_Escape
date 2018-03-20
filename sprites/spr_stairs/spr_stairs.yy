@@ -11,29 +11,29 @@
     "bbox_right": 1113,
     "bbox_top": 72,
     "bboxmode": 0,
-    "colkind": 1,
+    "colkind": 0,
     "coltolerance": 0,
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "36154608-61d5-4c31-bbaa-b01e11e08224",
+            "id": "45d826e6-3b1d-4dee-8375-4e7fc88b1770",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "b6d44b33-1d75-431d-ba93-1d2394010099",
             "compositeImage": {
-                "id": "1dee6818-4cad-4a08-b705-eb419361a78e",
+                "id": "0343f5b1-70f4-4e28-80c2-e1d92dbf9d45",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "36154608-61d5-4c31-bbaa-b01e11e08224",
+                "FrameId": "45d826e6-3b1d-4dee-8375-4e7fc88b1770",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "eb0b90c3-6f90-4702-8d44-1d35a69c6801",
+                    "id": "da7a2914-b52d-4198-b53f-1f997c7ca4a1",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "36154608-61d5-4c31-bbaa-b01e11e08224",
-                    "LayerId": "2dc67c3e-c6db-44bf-8400-2afd0b0b307e"
+                    "FrameId": "45d826e6-3b1d-4dee-8375-4e7fc88b1770",
+                    "LayerId": "74272619-44f5-4a44-9753-4b12b0e333bb"
                 }
             ]
         }
@@ -43,7 +43,7 @@
     "height": 1015,
     "layers": [
         {
-            "id": "2dc67c3e-c6db-44bf-8400-2afd0b0b307e",
+            "id": "74272619-44f5-4a44-9753-4b12b0e333bb",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "b6d44b33-1d75-431d-ba93-1d2394010099",
@@ -59,7 +59,7 @@
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
-    "sepmasks": false,
+    "sepmasks": true,
     "swatchColours": null,
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",

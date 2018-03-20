@@ -2,6 +2,25 @@
 key_left = keyboard_check(vk_left);
 key_right = keyboard_check(vk_right);
 key_jump = keyboard_check_pressed(vk_space);
+//if( room == "room0")
+//{
+//	show_debug_message("in room0")
+//}
+//else if( room == "room2")
+//{
+//	show_debug_message("in room2")	
+//}
+
+if(string(room_get_name(room)) == "room0")
+	{
+		jmpspd = 5;
+		show_debug_message("in room0");
+	}
+	if(string(room_get_name(room)) == "room2")
+	{
+		show_debug_message("in room2");
+		jmpspd = 7;
+	}
 
 //Calculate Movement
 var move = key_right - key_left;
@@ -24,9 +43,11 @@ if (place_meeting(x,y,obj_sludge))
 
 if (place_meeting(x,y+1,obj_collide)) and (key_jump)
 {
+	
+	audio_play_sound(sound_jump, 1, false);
 	if(cheat == -1)
 	{
-		vsp = -5;
+		vsp = -jmpspd;
 	}
 	else
 	{

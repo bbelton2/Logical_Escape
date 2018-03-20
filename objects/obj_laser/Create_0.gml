@@ -74,3 +74,10 @@ with(obj_laser_switch_incorrect) {
 image_xscale = .1;
 image_yscale = .1;
 }
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 526F80DB
+/// @DnDArgument : "expr" "-1"
+/// @DnDArgument : "var" "sound_started"
+sound_started = -1;

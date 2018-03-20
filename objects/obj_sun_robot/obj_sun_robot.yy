@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_sun_robot",
     "eventList": [
-        
+        {
+            "id": "699aeb23-7c2e-4d1b-8926-fe0c716f55b8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "32e307f6-3118-4787-bb53-706f2780c15f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

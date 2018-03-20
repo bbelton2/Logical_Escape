@@ -5,7 +5,7 @@
     "name": "obj_platform2",
     "eventList": [
         {
-            "id": "9c2d37b8-cb44-43ce-b468-eb4e9b432eea",
+            "id": "85bd41b7-2bc3-4bbb-896c-e333218cddb1",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
@@ -17,7 +17,7 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "30967163-6ce1-40cc-81ac-20c72ba15cce",
+    "parentObjectId": "a066ba0e-673f-40a8-8aac-47772f4ef325",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

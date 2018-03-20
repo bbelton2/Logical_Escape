@@ -4,6 +4,8 @@ vsp = 0;
 
 grv = .3;
 
+jmpspd = 5;
+
 walksp = 4;
 
 item_pickup = -1;

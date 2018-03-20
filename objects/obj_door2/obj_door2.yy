@@ -5,7 +5,7 @@
     "name": "obj_door2",
     "eventList": [
         {
-            "id": "ccd1d1d2-2ea6-4ea6-ade2-ddd81edcf0bb",
+            "id": "669a8c81-4ab4-49ab-afd1-8c03f3ecbb22",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
